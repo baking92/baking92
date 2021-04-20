@@ -1,0 +1,74 @@
+.header{
+	background-color: #00bfc2;
+	height: 80px;
+	text-align: center;
+	color: #8c3803;
+	margin-bottom: 70px;
+}
+
+.content{
+	background-color: #f58a47;
+	height: 3500px;
+	text-align: center;
+	color: white;
+	width: 80%
+	margin: 40 auto;
+	margin-bottom: 80;
+}
+
+.footer{
+	background-color: #ffdec9;
+	height: 100px;
+	text-align: center;
+	color: #00ffea;
+	margin-bottom: 80;
+
+}
+
+.menu{
+background-color: #006eff;
+}
+
+li{
+display: inline-block;
+padding: 30px 70px;
+}
+
+
+li:hover{
+background-color: white;
+color: black;
+
+
+
+}
+
+
+
+.olya{
+color: black;
+
+
+
+
+}
+.dd{
+color: black;
+height: 100px;
+
+
+}
+
+.post{​​
+display: flex;
+}​​
+.box {​​
+flex-grow: 1;
+background-color: black;
+padding: 15px;
+margin: 10px;
+}​​
+img {​​ width: 350px;}​​
+
+
+
